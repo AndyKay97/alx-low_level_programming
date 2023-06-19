@@ -1,13 +1,12 @@
-#include<stdlib.h>
-#include<time.h>
-#include<stdio.h>
-
+#include <stdlib.h>
+#include <time.h>
+#include <stdio.h>
 /**
- * main - Dertermines if a number is positive, negative or zero
+ * main-Assigns a random number to int n
  *
  * Return: Always 0 (Success)
  */
-main int(void)
+main int(void);
 {
 	int n;
 
